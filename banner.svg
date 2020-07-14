@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
- "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg
-	xmlns="http://www.w3.org/2000/svg" width="4000" height="2250" viewBox="0 0 1058.3333 595.31252" version="1.1" id="svg8">
+	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4000" height="2250" viewBox="0 0 1058.3333 595.31252" version="1.1" id="svg8">
 	<defs id="defs2">
 		<filter style="color-interpolation-filters:sRGB" id="filter869" x="-0.026279914" width="1.0525598" y="-0.042235937" height="1.0844719">
 			<feGaussianBlur stdDeviation="9.8212148" id="feGaussianBlur871"/>
