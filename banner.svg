@@ -27,30 +27,30 @@
 		<rect style="opacity:0.24100001;fill:#550000;fill-opacity:1;stroke:none;stroke-width:2.48260212;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" id="rect910" width="266.03516" height="594.17853" x="0.060123034" y="-297.17859"/>
 	</g>
 	<text font-size="60" fill='hsla(201, 24%, 14%, 1)' x="300" y="170">
-        James Luterek
-    </text>
+    James Luterek
+  </text>
 	<path id="pathFirst">
-		<animate id="first" attributeName="d" from="m0,110 h0" to="m0,110 h600" dur="10s" begin="0s;forth.end" repeatCount="1"/>
+		<animate id="first" attributeName="d" from="M300,255 h0" to="M300,255 h300" dur="5s" begin="0s;forth.end" repeatCount="1"/>
 	</path>
-	<text font-size="30" fill='hsla(0, 0%, 100%, 1)' x="300" y="140">
-		<textPath xlink:href="#pathFirst">Solution Architect</textPath>
+	<text font-size="30" fill='hsla(0, 0%, 100%, 1)'>
+		<textPath xlink:href="#pathFirst">Architect</textPath>
 	</text>
 	<path id="path2">
-		<animate id="second" attributeName="d" from="m0,110 h0" to="m0,110 h600" dur="10s" begin="first.end" repeatCount="1"/>
+		<animate id="second" attributeName="d" from="M300,327 h0" to="M300,327 h300" dur="5s" begin="first.end" repeatCount="1"/>
 	</path>
-	<text font-size="30" fill='hsla(0, 0%, 100%, 1)' x="300" y="215">
+	<text font-size="30" fill='hsla(0, 0%, 100%, 1)'>
 		<textPath xlink:href="#path2">Programmer</textPath>
 	</text>
 	<path id="path3">
-		<animate id="third" attributeName="d" from="m0,110 h0" to="m0,110 h500" dur="10s" begin="second.end" repeatCount="1"/>
+		<animate id="third" attributeName="d" from="M300,400 h0" to="M300,400 h300" dur="5s" begin="second.end" repeatCount="1"/>
 	</path>
-	<text font-size="30" fill='hsla(0, 0%, 100%, 1)' x="300" y="290">
+	<text font-size="30" fill='hsla(0, 0%, 100%, 1)'>
 		<textPath xlink:href="#path3">Speaker</textPath>
 	</text>
 	<path id="path4">
-		<animate id="forth" attributeName="d" from="m0,110 h0" to="m0,110 h500" dur="10s" begin="third.end" repeatCount="1"/>
+		<animate id="forth" attributeName="d" from="M300,480 h0" to="M300,480 h300" dur="5s" begin="third.end" repeatCount="1"/>
 	</path>
-	<text font-size="30" fill='hsla(0, 0%, 100%, 1)' x="300" y="375">
+	<text font-size="30" fill='hsla(0, 0%, 100%, 1)'>
 		<textPath xlink:href="#path4">Leader</textPath>
 	</text>
 </svg>
