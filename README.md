@@ -1,4 +1,4 @@
-![James Luterek - Banner Image](https://raw.githubusercontent.com/jluterek/jluterek/master/banner.svg)
+![Switch to Dark Mode](https://raw.githubusercontent.com/jluterek/jluterek/master/switch-to-dark-mode.gif#gh-light-mode-only)
 
 <br />
 
