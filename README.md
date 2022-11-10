@@ -10,11 +10,6 @@
 <br />
 
 ![Switch to Dark Mode](https://raw.githubusercontent.com/jluterek/jluterek/master/javascript-github-header.png)
-
-<br />
-
-
-
 ---
 
 <br />
