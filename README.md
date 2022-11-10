@@ -1,5 +1,5 @@
 ![Switch to Dark Mode](https://raw.githubusercontent.com/jluterek/jluterek/master/switch-to-dark-mode.gif#gh-light-mode-only)
-
+![Switch to Dark Mode](https://raw.githubusercontent.com/jluterek/jluterek/master/javascript-github-header.jpg)
 <br />
 
 <h3 align="center">Hi there! I'm James.</h3>
