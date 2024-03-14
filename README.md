@@ -1,4 +1,4 @@
-![Switch to Dark Mode](https://raw.githubusercontent.com/jluterek/jluterek/master/switch-to-dark-mode.gif#gh-light-mode-only)
+
 <h3 align="center">Hi there! I'm James.</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jamesluterek/">Linkedin</a>
@@ -9,7 +9,7 @@
 
 <br />
 
-![Switch to Dark Mode](https://raw.githubusercontent.com/jluterek/jluterek/master/javascript-github-header.png)
+![Switch to Dark Mode](https://raw.githubusercontent.com/jluterek/jluterek/master/switch-to-dark-mode.gif#gh-light-mode-only)
 ---
 
 <br />
